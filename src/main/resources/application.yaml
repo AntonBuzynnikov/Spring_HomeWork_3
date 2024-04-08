@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: example3_sem3_hometask
+#  datasource:
+#    url: jdbc:h2:mem:userTable
+#    driverClassName: org.h2.Driver
+#    username: sa
+#    password:
